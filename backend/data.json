@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "id": "8acd7b9ab86527d05c3ada7b",
+      "createdAt": "2026-03-31T20:30:12.740Z",
+      "name": "Yug",
+      "email": "test123@gmail.com",
+      "password": "$2b$10$KwC7HHPm4CqLbhyOb3iqAO07jR/aljzV4qCpgtJTZHryZ.kVlQoAi",
+      "preferences": {
+        "theme": "rose"
+      }
+    }
+  ],
+  "tasks": [
+    {
+      "id": "ee70b82b6c2929606e6a8989",
+      "createdAt": "2026-03-31T20:32:14.563Z",
+      "updatedAt": "2026-05-05T14:10:53.407Z",
+      "isCompleted": true,
+      "status": "completed",
+      "priority": "medium",
+      "category": "Completed",
+      "tags": [],
+      "subtasks": [],
+      "order": 0,
+      "userId": "8acd7b9ab86527d05c3ada7b",
+      "title": "Go to college",
+      "description": "",
+      "dueDate": null
+    },
+    {
+      "id": "4c3d64e6e00ff29b2b70968c",
+      "createdAt": "2026-05-05T14:04:19.505Z",
+      "updatedAt": "2026-05-05T14:04:19.505Z",
+      "isCompleted": false,
+      "status": "inbox",
+      "priority": "high",
+      "category": "Inbox",
+      "tags": [],
+      "subtasks": [],
+      "order": 1,
+      "userId": "8acd7b9ab86527d05c3ada7b",
+      "title": "Do some serious work",
+      "description": "",
+      "dueDate": null
+    },
+    {
+      "id": "5b848a2d658dacb2146bf7b6",
+      "createdAt": "2026-05-05T14:05:43.369Z",
+      "updatedAt": "2026-05-05T14:10:53.407Z",
+      "isCompleted": true,
+      "status": "in-progress",
+      "priority": "low",
+      "category": "In Progress",
+      "tags": [],
+      "subtasks": [],
+      "order": 0,
+      "userId": "8acd7b9ab86527d05c3ada7b",
+      "title": "Take classes daily",
+      "description": "",
+      "dueDate": null
+    }
+  ]
+}
