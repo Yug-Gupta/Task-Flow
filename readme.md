@@ -1,4 +1,4 @@
-# TaskFlow (To-do app)
+# Task-Flow (To-do app)
 
 A full-stack task management application with user authentication, calendar view, and dashboard analytics. Built with modern web technologies for seamless productivity and task organization.
 
